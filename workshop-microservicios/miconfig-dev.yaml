@@ -1,2 +1,4 @@
 employees:
   maxResults: 20
+  checkEmail: true
+  
