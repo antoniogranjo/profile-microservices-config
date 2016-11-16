@@ -1,0 +1,4 @@
+employees:
+  maxResults: 20
+  emailPorDefecto: ejemplo@profile.es
+  
