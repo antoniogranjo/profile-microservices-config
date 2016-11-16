@@ -1,4 +1,4 @@
 employees:
   maxResults: 20
-  checkEmail: true
+  emailPorDefecto: ejemplo@profile.es
   
